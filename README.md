@@ -4,6 +4,8 @@ This is the custom **Spigot/Paper Minecraft Plugin** for Sequence SMP. It acts a
 
 When an admin runs a command in-game (like `/play`), this plugin sends a signal to the **Backend Server**, which then plays music on the **Website** for all connected players.
 
+**🌐 LIVE WEBSITE:** [https://maxllh7809.github.io/Sequence-SMP-Site/](https://maxllh7809.github.io/Sequence-SMP-Site/#)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-E57373?style=for-the-badge&logo=spigotmc&logoColor=white)
 [![Frontend](https://img.shields.io/badge/GitHub-Frontend_Website_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Maxllh7809/Sequence-SMP-Site)
