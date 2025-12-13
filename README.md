@@ -57,7 +57,7 @@ If you want to edit the Java code:
 
 ## 👥 Credits
 
-*   **Plugin Development:** Jishnu H Marathamutu (Hooman)
+*   **Plugin Development:** Jishnu H Maruthamutu (Hooman)
 *   **Website & Integration:** Loh Wei Feng (Max)
 *   **Server Owner:** Siqns
 
