@@ -2,7 +2,7 @@
 
 This is the custom **Spigot/Paper Minecraft Plugin** for Sequence SMP. It acts as the "remote control" for the website audio system.
 
-When an admin runs a command in-game (like `/radio play`), this plugin sends a signal to the **Backend Server**, which then plays music on the **Website** for all connected players.
+When an admin runs a command in-game (like `/play`), this plugin sends a signal to the **Backend Server**, which then plays music on the **Website** for all connected players.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-E57373?style=for-the-badge&logo=spigotmc&logoColor=white)
@@ -32,9 +32,9 @@ When an admin runs a command in-game (like `/radio play`), this plugin sends a s
 
 | Command | Permission | Description |
 | :--- | :--- | :--- |
-| `/radio play <url> [name]` | `sequence.radio.admin` | Plays audio from a direct URL for all players on the website. |
-| `/radio stop` | `sequence.radio.admin` | Stops the music for everyone. |
-| `/radio reload` | `sequence.radio.admin` | Reloads the `config.yml` file. |
+| `/play <url> [name]` | `sequence.radio.admin` | Plays audio from a direct URL for all players on the website. |
+| `/stop` | `sequence.radio.admin` | Stops the music for everyone. |
+| `/reload` | `sequence.radio.admin` | Reloads the `config.yml` file. |
 
 **Example Usage:**
 ```minecraft
