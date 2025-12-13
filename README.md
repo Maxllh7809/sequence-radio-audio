@@ -6,16 +6,9 @@ When an admin runs a command in-game (like `/radio play`), this plugin sends a s
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-E57373?style=for-the-badge&logo=spigotmc&logoColor=white)
-
-## 🔗 The Ecosystem
-
-This plugin is Part 3 of the Sequence Audio System:
-
-1.  🖥️ **Frontend:** [Sequence-SMP-Site](https://github.com/Maxllh7809/Sequence-SMP-Site) (The Player's Speaker)
-2.  🧠 **Backend:** [sequence-audio-backend](https://github.com/Maxllh7809/sequence-audio-backend) (The Bridge)
-3.  🎮 **Plugin:** **You are here** (The Trigger)
-
----
+[![Frontend](https://img.shields.io/badge/GitHub-Frontend_Website_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Maxllh7809/Sequence-SMP-Site)
+[![Audio Backend](https://img.shields.io/badge/GitHub-Audio_Backend_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Maxllh7809/sequence-audio-backend)
+![Spigot](https://img.shields.io/badge/Spigot-E57373?style=for-the-badge&logo=spigotmc&logoColor=white)
 
 ## ⚙️ Installation & Setup
 
