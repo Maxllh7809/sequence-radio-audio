@@ -40,7 +40,7 @@ When an admin runs a command in-game (like `/play`), this plugin sends a signal 
 
 **Example Usage:**
 ```minecraft
-/radio play [https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3) Epic_Battle_Music
+/play [https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3) Epic_Battle_Music
 ````
 
 -----
