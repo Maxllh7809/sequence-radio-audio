@@ -4,7 +4,7 @@ This is the custom **Spigot/Paper Minecraft Plugin** for Sequence SMP. It acts a
 
 When an admin runs a command in-game (like `/play`), this plugin sends a signal to the **Backend Server**, which then plays music on the **Website** for all connected players.
 
-**🌐 LIVE WEBSITE:** [https://maxllh7809.github.io/Sequence-SMP-Site/](https://maxllh7809.github.io/Sequence-SMP-Site/#)
+[![Live Website](https://img.shields.io/badge/🌐_Visit-Live_Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maxllh7809.github.io/Sequence-SMP-Site/)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-E57373?style=for-the-badge&logo=spigotmc&logoColor=white)
@@ -23,8 +23,8 @@ When an admin runs a command in-game (like `/play`), this plugin sends a signal 
     # config.yml
     
     # The URL of your Node.js Backend (Do not include /play at the end, just the base URL)
-    # Example: https://sequence-audio-backend.onrender.com
-    api-url: "https://YOUR-BACKEND-URL.onrender.com"
+    # Example: [https://sequence-audio-backend.onrender.com](https://sequence-audio-backend.onrender.com)
+    api-url: "[https://YOUR-BACKEND-URL.onrender.com](https://YOUR-BACKEND-URL.onrender.com)"
     ```
 6.  Run `/radio reload` or restart the server.
 
@@ -40,10 +40,10 @@ When an admin runs a command in-game (like `/play`), this plugin sends a signal 
 
 **Example Usage:**
 ```minecraft
-/radio play https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3 Epic_Battle_Music
-```
+/radio play [https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3) Epic_Battle_Music
+````
 
----
+-----
 
 ## 🛠️ How to Compile (For Developers)
 
@@ -55,12 +55,12 @@ If you want to edit the Java code:
 4.  Run `mvn clean package`.
 5.  The compiled `.jar` will be in the `target/` folder.
 
----
+-----
 
 ## 👥 Credits
 
-*   **Plugin Development:** Jishnu H Maruthamutu (Hooman)
-*   **Website & Integration:** Loh Wei Feng (Max)
-*   **Server Owner:** Siqns
+  * **Plugin Development:** Jishnu H Maruthamutu (Hooman)
+  * **Website & Integration:** Loh Wei Feng (Max)
+  * **Server Owner:** Siqns
 
-&copy; 2025 Sequence SMP
+© 2025 Sequence SMP
